@@ -1,2 +1,2 @@
-# calories-calculator
-CampusX Course Project
+# Calories Calculator
+CampusX Course Project [Will update later]
